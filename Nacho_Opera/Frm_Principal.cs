@@ -40,7 +40,7 @@ namespace Nacho_Opera
             }
             catch (Exception Err)
             {
-                MessageBox.Show("Recuerde Ingresar Todos Los Campos.\nCodigo De Error:" + Err.Message);
+                MessageBox.Show("Recuerde Ingresar Todos Los Campos Y Solo Numeros.\nCodigo De Error:" + Err.Message);
             }
         }
 
@@ -56,7 +56,7 @@ namespace Nacho_Opera
             }
             catch (Exception Err)
             {
-                MessageBox.Show("Recuerde Ingresar Todos Los Campos.\nCodigo De Error:" + Err.Message);
+                MessageBox.Show("Recuerde Ingresar Todos Los Campos Y Solo Numeros.\nCodigo De Error:" + Err.Message);
             }
         }
 
@@ -79,7 +79,7 @@ namespace Nacho_Opera
             }
             catch (Exception Err)
             {
-                MessageBox.Show("Recuerde Ingresar Todos Los Campos.\nCodigo De Error:" + Err.Message);
+                MessageBox.Show("Recuerde Ingresar Todos Los Campos Y Solo Numeros.\nCodigo De Error:" + Err.Message);
             }
 
         }
@@ -96,7 +96,7 @@ namespace Nacho_Opera
             }
             catch (Exception Err)
             {
-                MessageBox.Show("Recuerde Ingresar Todos Los Campos.\nCodigo De Error:" + Err.Message);
+                MessageBox.Show("Recuerde Ingresar Todos Los Campos Y Solo Numeros.\nCodigo De Error:" + Err.Message);
             }
 
         }
